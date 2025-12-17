@@ -1,0 +1,10 @@
+import React from "react";
+import Feedback from "./FullStack/React/Feedback";
+
+export default function App() {
+  return (
+    <div>
+      <Feedback />
+    </div>
+  );
+}
